@@ -1,7 +1,8 @@
-import LoginForm from "./assets/forms/LoginForm";
+import RegistrationForm from "./assets/forms/RegistrationForm";
 
 function App() {
-  return <LoginForm />;
+  //return <LoginForm />;
+  return <RegistrationForm />;
 }
 
 export default App;
